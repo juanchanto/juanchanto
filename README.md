@@ -7,7 +7,7 @@
 🌟 Special Invitation: Try the Preliminary Version of Our Online Notes Tool 🌟
 
 Hello, productivity and organization enthusiasts! 🚀
-We’re thrilled to introduce Sloth notes, a new way to capture ideas, organize projects, and keep track of your notes from anywhere. 📝✨
+We’re thrilled to introduce Open notes, a new way to capture ideas, organize projects, and keep track of your notes from anywhere. 📝✨
 
 💡 What can you do with our tool?
 ✅ Easily create and manage your notes.
