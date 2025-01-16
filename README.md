@@ -7,7 +7,7 @@
 🌟 Special Invitation: Try the Preliminary Version of Our Online Notes Tool 🌟
 
 Hello, productivity and organization enthusiasts! 🚀
-We’re thrilled to introduce Open notes, a new way to capture ideas, organize projects, and keep track of your notes from anywhere. 📝✨
+We’re thrilled to introduce Open notes project, a new way to capture ideas, organize projects, and keep track of your notes from anywhere. 📝✨
 
 💡 What can you do with our tool?
 ✅ Easily create and manage your notes.
@@ -17,7 +17,7 @@ We’re thrilled to introduce Open notes, a new way to capture ideas, organize p
 🎯 Your feedback is key
 We’re in the preliminary version, and we want you to be part of this exciting stage. Your feedback will help us improve and make this tool exactly what you need. 💬
 
-👉 Join us today and be part of the journey: https://project-notes-five.vercel.app/
+👉 Join us today and be part of the journey: https://project-notes-five.vercel.app
 
 Thank you for being a part of this adventure with us! 💻🚀
 #Productivity #OnlineNotes #Innovation
