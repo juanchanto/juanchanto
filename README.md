@@ -17,7 +17,7 @@
   🎯 Your feedback is key
   We’re in the preliminary version, and we want you to be part of this exciting stage. Your feedback will help us improve and make this tool exactly what you need. 💬
   
-  👉 Join us today and be part of the journey: https://open-notes.xtelius.com
+  👉 Join us today and be part of the journey: https://notepad.xtelius.com
   
   Thank you for being a part of this adventure with us! 💻🚀
   #Productivity #OnlineNotes #Innovation
