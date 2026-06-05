@@ -1,151 +1,172 @@
-# 👋 Hi, I'm Juan Chanto (@juanchanto)
+# 👋 Hi, I'm Juan Chanto
 
-## 🚀 About Me
+### Software Developer • Product Builder • iOS & Full Stack Engineer
 
-I'm a software developer passionate about building useful digital products, learning modern technologies, and turning ideas into real solutions.
-
-I enjoy working across backend, frontend, mobile, and cloud environments while continuously improving my skills in scalable architectures and product development.
-
-## 👀 Interests
-
-- Software Engineering
-- SaaS Products
-- Mobile App Development
-- Artificial Intelligence
-- Cloud Infrastructure
-- Financial Technology
-- Automation & APIs
-- UI/UX Product Design
-
-## 🌱 Currently Learning
-
-- .NET & Microservices
-- Swift / SwiftUI / iOS Development
-- Advanced PostgreSQL & Supabase
-- Azure DevOps
-- AI Integrations for Apps
-- System Design & Scalable Architectures
-
-## 💞️ Open to Collaborate On
-
-- Web Applications  
-- SaaS Platforms  
-- Mobile Apps (iOS)  
-- Startup MVPs  
-- Fintech Products  
-- Fullstack Projects  
-
-## 📫 Contact
-
-- Email: **juachanto96@gmail.com**
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift\&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase\&logoColor=white)
 
 ---
 
-# 🌟 Active Projects
+## 🚀 About Me
 
-# 🐾 FitWithPaws
+I'm a software developer passionate about building products that solve real-world problems.
 
-**FitWithPaws** helps pet owners track their pets’ health, activity, and weight in one simple and intuitive experience across iPhone and Apple Watch.
+My work spans across mobile, web, backend, databases, and cloud technologies, with a strong focus on creating useful applications, learning modern technologies, and continuously improving as an engineer.
 
-Monitor progress, record walks, track weight trends, and build healthier habits for your pets with secure cloud synchronization.
+I enjoy taking ideas from concept to production and transforming them into products used by real people.
 
-## ✨ Features
+---
 
-- 🐶 Pet profile management
-- ⚖️ Weight tracking with historical records
-- 📈 Progress charts and health trends
-- 🚶 Walk tracking and activity history
-- ⌚ Apple Watch companion app
-- 📱 Live walk monitoring on iPhone and Apple Watch
-- ☁️ Secure cloud synchronization
-- 👥 Multi-pet support
-- 🔔 Health and activity reminders
-- 🌎 Multi-language support (English & Spanish)
-- 🍎 Sign in with Apple
-- 💡 Personalized health insights
+# 🌟 Featured Projects
 
-## 🚀 Built For
+## 🐾 FitWithPaws
 
-FitWithPaws is designed for pet owners who want a simple way to:
+**FitWithPaws** is a pet health and activity tracking platform designed to help pet owners monitor their pets' wellbeing from anywhere.
 
-- Monitor their pets' weight
-- Track daily activity and walks
-- Identify long-term health trends
-- Stay consistent with healthy routines
-- Keep all pet health information synchronized across devices
+Track weight, record walks, analyze progress, and stay connected through iPhone and Apple Watch.
 
-## 🎯 Vision
+### ✨ Features
 
-To help pet owners build healthier and happier lives for their pets through consistent activity tracking, weight monitoring, and actionable health insights.
+* 🐶 Pet profile management
+* ⚖️ Weight tracking with historical records
+* 📈 Progress charts and health trends
+* 🚶 Walk tracking and activity history
+* ⌚ Apple Watch companion app
+* 📱 Live walk monitoring on iPhone and Apple Watch
+* ☁️ Secure cloud synchronization
+* 👥 Multi-pet support
+* 🔔 Health reminders and notifications
+* 🌎 Multi-language support (English & Spanish)
+* 🍎 Sign in with Apple
+* 💡 Personalized health insights
+
+### 🎯 Mission
+
+Help pet owners build healthier habits and improve their pets’ quality of life through activity and health tracking.
 
 🔗 Website: https://fitwithpaws.com
 
-📱 Available on the App Store: https://apps.apple.com/us/app/fitwithpaws/id6766594257
+📱 Available on the App Store:
+https://apps.apple.com/us/app/fitwithpaws/id6766594257
+
 ---
 
 ## 💱 ExchangeCR
 
-**ExchangeCR** is a Costa Rica focused exchange rate platform that helps users track currency values, compare rates, and access useful financial information.
+**ExchangeCR** is a Costa Rica-focused exchange rate platform that helps users access reliable currency information and financial insights.
 
-### Features:
+### ✨ Features
 
-- Exchange rate tracking
-- Currency insights
-- Costa Rica market focus
-- Clean and fast UI
-- Future forecasting tools
+* Exchange rate tracking
+* Financial insights
+* Costa Rica market focus
+* Fast and intuitive experience
+* Future financial tools and forecasting
 
-### Vision:
+### 🎯 Mission
 
-Make currency information easier and smarter for Costa Rican users and businesses.
+Make currency information easier, smarter, and more accessible for Costa Rican individuals and businesses.
 
-🔗 Website: **https://exchangecr.com**
+🔗 Website: https://exchangecr.com
 
 ---
 
-# 🛠️ Technologies I Work With
+# 🛠️ Tech Stack
 
 ### Backend
-- Java
-- Spring Boot
-- .NET
-- Node.js
-- PHP
-- Go
+
+* Java
+* Spring Boot
+* .NET
+* Node.js
+* PHP
+* Go
 
 ### Frontend
-- React
-- Next.js
-- Angular
-- Vue.js
-- TypeScript
-- JavaScript
+
+* React
+* Next.js
+* Angular
+* Vue.js
+* TypeScript
+* JavaScript
 
 ### Mobile
-- Swift
-- SwiftUI
 
-### Database / Cloud
-- PostgreSQL
-- Supabase
-- MySQL
-- Firebase
+* Swift
+* SwiftUI
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* Supabase
+* Firebase
+
+### Cloud & DevOps
+
+* Azure
+* Vercel
+* GitHub Actions
+* Docker
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Swift & SwiftUI
+* .NET Microservices
+* Azure DevOps
+* AI Integrations
+* System Design
+* Scalable Architectures
+
+---
+
+# 👀 Areas of Interest
+
+* Software Engineering
+* Mobile Development
+* SaaS Products
+* Artificial Intelligence
+* Cloud Infrastructure
+* Financial Technology
+* Automation & APIs
+* Product Design
+
+---
+
+# 🤝 Open to Collaborate
+
+I'm always interested in collaborating on:
+
+* SaaS Platforms
+* Mobile Applications
+* Startup MVPs
+* Fintech Solutions
+* Full-Stack Products
+* Open Source Projects
+
+---
+
+# 📫 Contact
+
+📧 Email: **[juachanto96@gmail.com](mailto:juachanto96@gmail.com)**
 
 ---
 
 # 🚀 Philosophy
 
-I believe learning by building real products is the fastest path to growth.
+> Build. Learn. Improve. Repeat.
 
-Every project is an opportunity to improve, experiment, and create something valuable.
+I believe the fastest way to grow as a developer is by building real products, solving real problems, and learning from real users.
 
----
-
-# 🤝 Let's Connect
-
-If you'd like to collaborate, discuss ideas, or build something impactful:
-
-📩 **juachanto96@gmail.com**
+Every project is an opportunity to improve, experiment, and create something meaningful.
 
 ---
-⭐ Always building. Always learning.
+
+⭐ **Always building. Always learning.**
