@@ -43,26 +43,43 @@ I enjoy working across backend, frontend, mobile, and cloud environments while c
 
 # 🌟 Active Projects
 
-## 🐾 FitWithPaws
+# 🐾 FitWithPaws
 
-**FitWithPaws** is a health and weight tracking app designed for pet owners who want to monitor their pets' progress in a modern and intuitive way.
+**FitWithPaws** helps pet owners track their pets’ health, activity, and weight in one simple and intuitive experience across iPhone and Apple Watch.
 
-### Features:
+Monitor progress, record walks, track weight trends, and build healthier habits for your pets with secure cloud synchronization.
 
-- Pet profile management
-- Weight history tracking
-- Progress charts
-- Multi-profile support (owner + pets)
-- iPhone + Apple Watch integration
-- Smart health insights
-- Secure cloud sync
+## ✨ Features
 
-### Vision:
+- 🐶 Pet profile management
+- ⚖️ Weight tracking with historical records
+- 📈 Progress charts and health trends
+- 🚶 Walk tracking and activity history
+- ⌚ Apple Watch companion app
+- 📱 Live walk monitoring on iPhone and Apple Watch
+- ☁️ Secure cloud synchronization
+- 👥 Multi-pet support
+- 🔔 Health and activity reminders
+- 🌎 Multi-language support (English & Spanish)
+- 🍎 Sign in with Apple
+- 💡 Personalized health insights
 
-Help pet owners improve their pets’ wellbeing through consistent health monitoring.
+## 🚀 Built For
 
-🔗 Website: **https://fitwithpaws.com**
+FitWithPaws is designed for pet owners who want a simple way to:
 
+- Monitor their pets' weight
+- Track daily activity and walks
+- Identify long-term health trends
+- Stay consistent with healthy routines
+- Keep all pet health information synchronized across devices
+
+## 🎯 Vision
+
+To help pet owners build healthier and happier lives for their pets through consistent activity tracking, weight monitoring, and actionable health insights.
+
+🔗 Website: https://fitwithpaws.com
+📱 Available on the App Store: https://apps.apple.com/us/app/fitwithpaws/id6766594257
 ---
 
 ## 💱 ExchangeCR
