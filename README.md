@@ -79,6 +79,7 @@ FitWithPaws is designed for pet owners who want a simple way to:
 To help pet owners build healthier and happier lives for their pets through consistent activity tracking, weight monitoring, and actionable health insights.
 
 🔗 Website: https://fitwithpaws.com
+
 📱 Available on the App Store: https://apps.apple.com/us/app/fitwithpaws/id6766594257
 ---
 
